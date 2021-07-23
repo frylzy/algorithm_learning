@@ -1,4 +1,4 @@
-leetcode 剑指offer-3
+# leetcode 剑指offer-3
 class Solution {
     public int findRepeatNumber(int[] nums) {
         int n = nums.length;
